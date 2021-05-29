@@ -1,0 +1,4 @@
+./MNTR_MENU/monx_func.sh: line 14: [: sdss: integer expression expected
+./MNTR_MENU/monx_func.sh: line 14: [: dffs: integer expression expected
+./MNTR_MENU/monx_func.sh: line 14: [: dfdsf: integer expression expected
+./MNTR_MENU/monx_func.sh: line 14: [: df: integer expression expected
